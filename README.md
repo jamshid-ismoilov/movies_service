@@ -204,8 +204,3 @@ curl -X DELETE http://localhost:8080/movies/1 \
 
 Pull requests are welcome! Please open an issue first to discuss any significant changes.
 
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
